@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tclela20
+- 👀 I’m interested in various aspects of coding.
+- 🌱 I’m currently learning pythong and .net
